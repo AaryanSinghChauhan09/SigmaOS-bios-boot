@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-bios-boot"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS bios-boot component - boot"
+
+[lib]
+name = "bios_boot"
+path = "src/lib.rs"
