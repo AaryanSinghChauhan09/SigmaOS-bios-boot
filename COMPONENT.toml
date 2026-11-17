@@ -3,7 +3,7 @@ name = "SigmaOS-bios-boot"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "bios-boot component"
+description = "bios boot component"
 upstream = []
 
 [contract]
